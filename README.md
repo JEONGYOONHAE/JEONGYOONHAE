@@ -38,8 +38,8 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
   <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JEONGYOONHAEcom&layout=compact)](https://github.com/JEONGYOONHAE/github-readme-stats)
-    
+
+  <br>
    <img src="http://mazandi.herokuapp.com/api?handle=jyh6456&theme=dark"/>
 <!--
 **JEONGYOONHAE/JEONGYOONHAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
