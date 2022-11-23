@@ -42,7 +42,8 @@
   <br>
    <img src="http://mazandi.herokuapp.com/api?handle=jyh6456&theme=dark"/>
   <br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyh6456&layout=compact)](https://github.com/jyh6456/github-readme-stats)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact)](https://github.com/dearsyjang/github-readme-stats)
+    
 <!--
 **JEONGYOONHAE/JEONGYOONHAE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
