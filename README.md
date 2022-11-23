@@ -39,9 +39,10 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
   <br>
 
-  <br>
+<!--   <br>
    <img src="http://mazandi.herokuapp.com/api?handle=jyh6456&theme=dark"/>
-  <br>
+  <br> -->
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dearsyjang&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dearsyjang&layout=compact)](https://github.com/dearsyjang/github-readme-stats)
     
