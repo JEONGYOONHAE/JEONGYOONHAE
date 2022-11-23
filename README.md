@@ -38,7 +38,7 @@
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=GitLab&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
   <br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ue0828@naver.com)]
+    [(https://github-readme-stats.vercel.app/api/top-langs/?username=ue0828@naver.com)]
     
    <img src="http://mazandi.herokuapp.com/api?handle=jyh6456&theme=dark"/>
 <!--
