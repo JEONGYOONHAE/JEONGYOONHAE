@@ -1,7 +1,7 @@
 ## Hello, I'm Jeong Yoonhae 👋
-  <h3> 😄 Tech Stack </h3>
+  <h3> 💻 Stacks </h3>
   <div>
-  <h4> Back-End </h4>
+  <h4> [ Back-End ] </h4>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white" />
     <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   </div>
   <div>
-    <h4> Front-End </h4>
+    <h4> [ Front-End ] </h4>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/CSS3-F68212?style=flat-square&logo=CSS3&logoColor=white"/>  
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
@@ -23,7 +23,7 @@
     <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   </div>
             
-  <h3> 💬 Studying  </h3>
+  <h3> ✏ Studying  </h3>
   <div>
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/>
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
